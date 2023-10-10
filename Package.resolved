@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "momento-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/momento-ads/momento-ios-sdk.git",
+      "state" : {
+        "revision" : "18b73dfba8f729594701b08e172eae3dd10220e7",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}
